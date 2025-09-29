@@ -11,3 +11,4 @@ Este repositório é um **espaço de aprendizado e prática** focado nos conceit
 ---
 
 - **Aula do dia 27/08/2025**: Referente a atividades do 1 a 6
+- **Aula do dia 17/10/2025**: Referente a atividades do 7 a 11
