@@ -9,3 +9,5 @@ Este repositório é um **espaço de aprendizado e prática** focado nos conceit
 - **Abstração**: Focando no que é importante.
 
 ---
+
+- **Aula do dia 27/08/2025**: Referente a atividades do 1 a 6
